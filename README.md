@@ -1,0 +1,2 @@
+# olimpiada
+OCR Ninja
